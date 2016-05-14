@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="btn_restart">Restart</string>
+    <string name="btn_flag">Flag</string>
+    <string name="btn_try">Try</string>
+    <string name="text_welcome">Game started!</string>
+    <string name="text_flag">Flag mode</string>
+    <string name="text_try">Try mode</string>
+    <string name="text_lose">Game over, try again!</string>
+    <string name="text_win">You win!</string>
+    <string name="action_cancel">Cancel</string>
+</resources>
